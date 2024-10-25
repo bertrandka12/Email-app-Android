@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BestEmailClient</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_message">Create Message</string>
+    <string name="notification_channel"> Messages Notification</string>
+    <string name="notification_channel_description">A default location for all messages sent to the user</string>
+</resources>
